@@ -2,7 +2,7 @@
 Aula dada na imerssão de Fornt-End ( HTML e CSS )
 # 🚀 Landing Page Responsiva - Imersão HTML e CSS | Cloud Treinamentos
 
-Este repositório contém o código-fonte da **Landing Page Responsiva** desenvolvida durante a **Aula 03 da Imersão de HTML e CSS** promovida pela [Cloud Treinamentos] ([https://cloudtreinamentos.com](https://comunidadecloud.com/)).
+Este repositório contém o código-fonte da **Landing Page Responsiva** desenvolvida durante a **Aula 03 da Imersão de HTML e CSS** promovida pela [Cloud Treinamentos] (https://comunidadecloud.com/).
 
 ## 🎯 Objetivo da Aula
 
@@ -58,5 +58,5 @@ A ideia é que os alunos possam:
 
 ## 📩 Dúvidas ou sugestões?
 
-Este repositório faz parte da atividade prática da [Cloud Treinamentos](https://comunidadecloud.com/)).  
+Este repositório faz parte da atividade prática da [Cloud Treinamentos](https://comunidadecloud.com/).  
 Caso tenha dúvidas, entre em contato com seu instrutor ou utilize os canais oficiais da comunidade.
